@@ -7,7 +7,6 @@ I'm a physics undergraduate (University of Padova) working through a structured 
 ## Structure
 
 - `circuits/` — Jupyter notebooks with implemented circuits, one per topic covered.
-- `output/` — weekly study log tracking topics covered session by session.
 
 ## Status
 
